@@ -1,14 +1,16 @@
 ### Hi there 👋 I'm Hanna Liu😄
 
-- I'm looking for a job in <b>Osaka</b>, Japan.
+- ⌨️ I'm looking for a job in <b>Osaka</b>, Japan.
 
-- I have been working as a web front-end developer for 4 years, I am good at developing responsive websites, data visualization projects, etc. I mainly used React.js and related technologies in my last job.
+- I have been working as a <b>web front-end developer</b> for <b>4</b> years, I am good at developing <b>responsive websites</b>, data visualization projects, etc. I mainly used <b>HTML/CSS/JavaScript/React.js</b> and related technologies in my last job.
 
 - I am interested in database technology, and I have a Level 3 database certificate and experience in using SQL Server, SQLite, MongoDB and other databases.
 
 - I am interested in design and can use tools such as Photoshop and Illustrator.
 
 - In my spare time, I am studying English and Japanese, and I like to read mystery novels.
+
+- 💻 Personal website: http://www.f2td.com
 
 - 📫 How to reach me: ryuuhannah@gmail.com
 
