@@ -10,8 +10,6 @@
 
 - In my spare time, I am studying English and Japanese, and I like to read mystery novels.
 
-- 💻 Personal website: http://www.f2td.com
-
 - 📫 How to reach me: ryuuhannah@gmail.com
 
 <!--
