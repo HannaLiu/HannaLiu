@@ -1,6 +1,4 @@
-### Hi there 👋 I'm Hanna Liu😄
-
-- ⌨️ I'm looking for a job in <b>Osaka</b>, Japan.
+### Hi there 👋 I'm Hanna
 
 - I have been working as a <b>web front-end developer</b> for <b>4</b> years, I am good at developing <b>responsive websites</b>, data visualization projects, etc. I mainly used <b>HTML/CSS/JavaScript/React.js</b> and related technologies in my last job.
 
